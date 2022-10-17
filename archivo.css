@@ -51,10 +51,30 @@ h2{
 }
 h3{
     font-size: 2rem;
-}
+} 
 p{
     font-size: 2rem;
 }
 .card {
     background-color:floralwhite;
+}
+
+
+.bi-instagram{
+    font-size: 20px;
+}
+.bi-instagram:hover{
+    color: rgb(148, 59, 148);
+}
+.bi-twitter{
+    font-size: 20px;
+}
+.bi-twitter:hover{
+    color: rgb(59, 136, 155);
+}
+.bi-facebook{
+    font-size: 20px;
+}
+.bi-facebook:hover{
+    color: blue;
 }
