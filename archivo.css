@@ -60,20 +60,16 @@ p{
 }
 
 
-.bi-instagram{
-    font-size: 20px;
+.bi-instagram,
+.bi-twitter,
+.bi-facebook{
+    font-size: 16px;
 }
 .bi-instagram:hover{
     color: rgb(148, 59, 148);
 }
-.bi-twitter{
-    font-size: 20px;
-}
 .bi-twitter:hover{
     color: rgb(59, 136, 155);
-}
-.bi-facebook{
-    font-size: 20px;
 }
 .bi-facebook:hover{
     color: blue;
